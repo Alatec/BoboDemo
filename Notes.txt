@@ -1,0 +1,29 @@
+Robot Needs:
+
+Drive:
+    RT == speed
+    LT == -speed?
+
+    LStick == Steering
+        Full Left/Right == Skidsteer
+
+    Hat Up/Right == Increase constant multiplier for Drive/Turn
+    Hat Down/Left == Decrease constant multiplier for Drive/Turn
+
+Head Movement:
+    RStick == Head Movement
+        Up == Tilt Down?
+        Set BoboFace?
+
+AI_Mode (One thing?):
+    Switch Mode == PS Button
+        Set Color on Controller
+        Human == Purple
+        AI == Red
+
+
+    Look for students
+
+        Putter/Mutter
+
+    
